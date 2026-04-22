@@ -49,7 +49,7 @@ I personally oversee the auditing process for all GitHub growth services:
 ## 🤝 Connect for Inquiries
 Looking for reliable GitHub solutions or verified digital accounts? Reach out to our global team:
 
-- **Founder:** Mike (@GMBSells-Dev)
+- **Founder:** Mike [@GMBSells-Dev](https://github.com/GMBSells-dev)
 - **Marketplace:** [gmbsells.com](https://gmbsells.com)
 - **Telegram:** [@GMBSells24](https://t.me/GMBSells24)
 - **Email:** gmbsells.info@gmail.com
